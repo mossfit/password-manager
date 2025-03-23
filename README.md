@@ -25,7 +25,7 @@ This project implements a command-line password manager in a novel way. It uses 
 
    ```bash
    git clone https://github.com/yourusername/novel-password-manager.git
-   cd novel-password-manager
+   cd password-manager
 
 Install dependencies:
 
